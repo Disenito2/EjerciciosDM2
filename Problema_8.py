@@ -5,7 +5,7 @@ Created on Tue Mar  9 15:56:21 2021
 @author: 99gar
 """
 
-Hola buenos dias
+
 
 FrA=179.4 
 FrB=947.5 
